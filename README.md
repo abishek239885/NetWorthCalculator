@@ -1,22 +1,21 @@
 <h2 align="center">
-  Budget App
+  Net Worth Calculator App
 </h2>
 
 ## Built With
 
-Budget App : <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+Net Worth Calculator Application : <a href="http://abisheksr-net-worth-calculator.vercel.app" target="_blank">NetWorth Calculator App</a>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
 - CSS3
+- Bootstrap
 - VsCode
 - Vercel
 
 ## Features
-
-**📖 Multi-Page Layout**
 
 **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
